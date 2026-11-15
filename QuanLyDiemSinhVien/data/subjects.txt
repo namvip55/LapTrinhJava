@@ -1,0 +1,6 @@
+INT101|Lập trình Java|3
+INT102|Cấu trúc dữ liệu và giải thuật|3
+INT103|Cơ sở dữ liệu|3
+INT104|Phân tích thiết kế hệ thống|3
+INT105|Kỹ thuật lập trình Web|4
+INT106|Kiến trúc máy tính|2

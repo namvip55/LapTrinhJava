@@ -1,0 +1,27 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Data files (runtime generated)
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+*.launch
+.metadata/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar

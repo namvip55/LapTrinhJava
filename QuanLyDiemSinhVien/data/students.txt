@@ -1,0 +1,8 @@
+SV001|Phan Công Thành Đạt|2004-03-15|Nam|D19CNPM3|dat.pct@epu.edu.vn
+SV002|Lê Ngọc Quyền|2004-08-22|Nam|D19CNPM3|quyen.ln@epu.edu.vn
+SV003|Nguyễn Thành Nam|2004-11-05|Nam|D19CNPM3|nam.nt@epu.edu.vn
+SV004|Nguyễn Văn Tiến|2004-05-19|Nam|D19CNPM3|tien.nv@epu.edu.vn
+SV005|Trần Thị Mai Anh|2004-02-10|Nữ|D19CNPM3|anh.ttm@epu.edu.vn
+SV006|Hoàng Minh Đức|2004-09-30|Nam|D19CNPM3|duc.hm@epu.edu.vn
+SV007|Vũ Thu Hương|2004-07-14|Nữ|D19CNPM3|huong.vt@epu.edu.vn
+SV008|Đỗ Quang Huy|2004-12-01|Nam|D19CNPM3|huy.dq@epu.edu.vn
